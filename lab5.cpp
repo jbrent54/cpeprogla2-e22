@@ -97,6 +97,7 @@ void problem2(){
 	float grade;
 	char p;
 	Srecord ci[5];
+	cout << endl;
 	cout<<"Enter 5 Student<s> Record"<<endl;
 	for (i=0; i<5; i++){
 		cout<<"\nStudent "<<(i+1)<<endl;
